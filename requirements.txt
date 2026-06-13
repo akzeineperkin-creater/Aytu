@@ -1,0 +1,8 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+python-multipart==0.0.20
+pydantic==2.11.4
+groq==0.25.0
+ultralytics==8.3.143
+Pillow==11.2.1
+supabase==2.15.2
